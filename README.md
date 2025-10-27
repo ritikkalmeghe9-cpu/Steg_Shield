@@ -3,11 +3,13 @@
 Advanced LSB Image Steganography with AES-256 Encryption
 Created by Ritik Kalmeghe
 ======================================================================================================================================
+
 📖 Overview
 
 Rambo Steganography Tool is a powerful and interactive Python-based steganography utility that allows you to hide secret messages inside images using Least Significant Bit (LSB) encoding — optionally protected with AES-256 encryption for military-grade security.
 
 This tool is designed for cybersecurity learners, ethical hackers, and digital forensics enthusiasts who want to explore the intersection of cryptography and steganography.
+================================================================================================================================================
 
 ✨ Features
 
@@ -17,6 +19,7 @@ This tool is designed for cybersecurity learners, ethical hackers, and digital f
 ✅ Cross-Platform — Works on Linux, Windows, and macOS.
 ✅ Secure & Efficient — Uses PBKDF2 key derivation and CBC mode for strong protection.
 ✅ Fun Visuals — Includes custom ASCII banner, typing effect, and spinner animation.
+==============================================================================================================================================
 
 🧠 How It Works
 
@@ -27,6 +30,7 @@ Embeds those bits into the least significant bits of image pixel values.
 Optionally encrypts your message with AES-256 before embedding.
 
 You can later extract and decrypt the message perfectly.
+=================================================================================================================================================
 
 ⚙️ Installation
 Requirements
@@ -38,7 +42,7 @@ Pillow (pip install pillow)
 PyCryptodome (pip install pycryptodome)
 
 Clone the Repository
-git clone https://github.com/yourusername/Rambo-Steganography-Tool.git
+https://github.com/ritikkalmeghe9-cpu/Steg_Shield.git
 cd Rambo-Steganography-Tool
 
 Run the Tool
@@ -74,6 +78,7 @@ Password → mypassword
 
 Result:
 ✅ Decoded Message: This is top secret!
+======================================================================================================================================================
 
 🧩 Project Structure
 Rambo-Steganography-Tool/
@@ -93,6 +98,7 @@ Rambo-Steganography-Tool/
 🔒 PyCryptodome (AES-256)
 
 💻 ANSI Terminal Styling
+=====================================================================================================================================================
 
 ⚠️ Disclaimer
 
