@@ -35,16 +35,10 @@ You can later extract and decrypt the message perfectly.
 Requirements
 
 Python 3.8+
-
 Pillow (pip install pillow)
-
 PyCryptodome (pip install pycryptodome)
 ============================================================================================================================================================
 
-Clone the Repository
-git clone https://github.com/yourusername/Rambo-Steganography-Tool.git
-cd Rambo-Steganography-Tool
-=======================================================================================================================================
 Run the Tool
 python3 rambo_stego.py
 ================================================================================================================
